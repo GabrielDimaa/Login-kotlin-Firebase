@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1054951333733",
+    "firebase_url": "https://loginestudo-9c79e.firebaseio.com",
+    "project_id": "loginestudo-9c79e",
+    "storage_bucket": "loginestudo-9c79e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054951333733:android:7a55ec58cbbb191126cb8c",
+        "android_client_info": {
+          "package_name": "com.ap8.loginfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054951333733-7c2n4rbqlmjgp0c2eeh9k4c22ja7g0ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbiM5GJfIvx-dzRi1iOITZFh717Y34yw8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054951333733-7c2n4rbqlmjgp0c2eeh9k4c22ja7g0ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
